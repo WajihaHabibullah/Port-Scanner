@@ -42,8 +42,8 @@ For every open port, a banner grab is attempted — the scanner sends an HTTP HE
 No external dependencies required — uses Python standard library only.
 
 ```bash
-git clone https://github.com/WajihaHabibullah/Python-Port-Scanner.git
-cd Python-Port-Scanner
+git clone https://github.com/WajihaHabibullah/Port-Scanner.git
+cd Port-Scanner
 python scanner.py
 ```
 
