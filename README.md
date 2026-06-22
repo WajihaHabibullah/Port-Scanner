@@ -138,7 +138,7 @@ Example from a real scan:
 ## Author
 
 **Wajiha Habibullah**  
-CY Student — NUCES FAST, Karachi  
+CS Student — NUCES FAST, Karachi  
 [github.com/WajihaHabibullah](https://github.com/WajihaHabibullah)
 
 
